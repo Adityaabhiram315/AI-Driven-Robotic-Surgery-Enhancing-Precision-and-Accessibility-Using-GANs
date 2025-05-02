@@ -56,10 +56,9 @@ By enhancing perception with ESRGAN and evaluating its real-time impact in simul
 
 For questions, collaboration, or feedback, feel free to reach out:
 
-**Author**: *[Your Name]*  
-**Affiliation**: *[Your University or Research Group]*  
-**Email**: *[your.email@example.com]*
-
+**Author**: Aditya Abhiram  
+**Affiliation**: Chandigarh University
+**Email**: adityaabhiram315@gmail.com
 ---
 
 *This project is part of ongoing research to push the boundaries of AI-assisted surgical technology through open-source innovation and advanced machine learning.*
